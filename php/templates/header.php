@@ -26,9 +26,9 @@
                 <li class="menu__item"><a href="#">Contact</a></li>
                 <li class="menu__item"><a href="#">Mon compte</a></li>
             </ul>
-            <button class="hamburger">
-                <i class="menu__icon"><img id="open-menu" src="../sources/images/001-materiel-de-ski-uncrossed.png"></i>
-                <i class="close__icon"><img id="close-menu" src="../sources/images/001-materiel-de-ski-crossed.png"></i>
-            </button>
         </nav>
+        <button class="hamburger">
+            <i class="menu__icon"><img id="open-menu" src="../sources/images/001-materiel-de-ski-uncrossed.png"></i>
+            <i class="close__icon"><img id="close-menu" src="../sources/images/001-materiel-de-ski-crossed.png"></i>
+        </button>
     </header>
